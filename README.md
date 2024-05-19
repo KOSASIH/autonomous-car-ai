@@ -61,6 +61,31 @@ Install the required packages:
 
 # Usage
 
+Train the model:
+
+```
+1. python train.py --model-dir=models/ --num-episodes=1000
+```
+This will train the model for 1000 episodes and save the trained model to the models directory.
+
+Test the model:
+
+```
+1. python test.py --model-dir=models/ --num-episodes=10
+```
+
+This will test the model for 10 episodes and display the results.
+
+# Notes
+
+- The train.py script uses the OpenAI Gym environment for training the model. The environment is defined in the env.py module.
+- The model.py module contains the definition of the neural network architecture and the training loop.
+- The load_data.py module contains functions for loading and preprocessing the data.
+- The utils.py module contains utility functions for visualizing the results and saving the trained model.
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 # Data Collection
