@@ -166,6 +166,54 @@ This will train the model for 1000 episodes and save the trained model to the mo
 
 # Contributing 
 
+Contributing to Autonomous Car AI
+
+Thank you for your interest in contributing to Autonomous Car AI! We welcome contributions from the community and are grateful for your help in making this project better.
+
+## Getting Started
+
+1. Fork the repository on GitHub.
+2. Clone the repository to your local machine.
+3. Create a new branch for your changes.
+4. Make your changes and commit them to your branch.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the original repository.
+
+## Code of Conduct
+
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See CODE_OF_CONDUCT.md for more information.
+
+## Making Changes
+
+When making changes to the code, please follow these guidelines:
+
+1. Make sure your changes are well-documented and include tests if necessary.
+2. Follow the existing code style and formatting conventions.
+3. Make sure your changes do not break any existing functionality.
+4. Test your changes thoroughly before submitting a pull request.
+
+## Reporting Bugs
+
+If you find a bug in the code, please submit an issue to the repository. Include as much information as possible, such as the steps to reproduce the bug and any error messages you receive.
+
+## Requesting Features
+
+If you would like to request a new feature, please submit an issue to the repository. Include as much information as possible, such as a detailed description of the feature and any potential benefits it may provide.
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgments
+
+- The OpenAI Gym environment is based on the Udacity self-driving car simulator.
+- The neural network architecture is based on the Deep Reinforcement Learning for Autonomous Navigation paper by Tai et al. (2017).
+- The code is inspired by the TensorFlow Reinforcement Learning tutorial.
+
+# Thank You
+
+Thank you for your interest in contributing to Autonomous Car AI! We appreciate your help in making this project better and look forward to your contributions.
+
 # License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
