@@ -132,6 +132,38 @@ In summary, model training is a critical step in building an autonomous car AI s
 
 # Testing 
 
+## Requirements
+
+1. Python 3.6 or higher
+2. TensorFlow 2.3 or higher
+3. NumPy
+4. OpenCV
+5. Matplotlib
+
+## Installation
+
+1. Clone the repository:
+
+```
+1. git clone https://github.com/KOSASIH/autonomous-car-ai.git
+```
+
+2. Install the required packages:
+
+```
+1. pip install -r requirements.txt
+```
+
+Usage
+
+Train the model:
+
+```
+1. python train.py --model-dir=models/ --num-episodes=1000
+```
+
+This will train the model for 1000 episodes and save the trained model to the models directory.
+
 # Contributing 
 
 # License
