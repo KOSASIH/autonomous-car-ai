@@ -108,3 +108,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# Acknowledgments
+
+- The OpenAI Gym environment is based on the Udacity self-driving car simulator.
+- The neural network architecture is based on the Deep Reinforcement Learning for Autonomous Navigation paper by Tai et al. (2017).
+- The code is inspired by the TensorFlow Reinforcement Learning tutorial.
